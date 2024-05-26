@@ -1,5 +1,5 @@
 # Stock Prediction Using LSTM
-
+Click the badge to run this project in your browser: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cheau-lee/Stock-Pred-LSTM/HEAD)
 ## Table of Contents
 
 - [Introduction](#introduction)
